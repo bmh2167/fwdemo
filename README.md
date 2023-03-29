@@ -1,2 +1,2 @@
 # fwdemo
-Based on the prototype produced in Prot.io
+Based on the prototype built in Prot.io
