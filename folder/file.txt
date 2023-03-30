@@ -1,0 +1,3 @@
+So, Github doesn't let you make an empty folder. You MUST create a folder and a file at the same time. 
+Hence, this descriptively-named file in a folder with an equally-descriptive name.
+I went into the rename section, then typed in "folder/file.txt"
