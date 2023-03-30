@@ -1,0 +1,3 @@
+I have lost patience with Github's unintuitive processes. 
+Yet, I've learned how to create folders and items. I am creating this folder so that I can simply upload all of my files into it again.
+The Github pages are viewable online, but I'm getting a 404 when I change the index. So, I'm uploading a new index in a subfolder. 
